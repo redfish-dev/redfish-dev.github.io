@@ -44,3 +44,5 @@ from
 
 Now the result is 
 1. “IF47, IF71”
+
+This can be powerful to show lots of data brought from many linked tables on one row for an entity or transaction. 
