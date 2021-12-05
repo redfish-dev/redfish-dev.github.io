@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "NetSuite SquiteQL columns to text via LISTAGG"
+title:  "NetSuite SuiteQL columns to text via LISTAGG"
 date:   2021-12-05 15:23:10 -0600
 categories: Netsuite SuiteQL
 ---
