@@ -25,9 +25,9 @@ IF47
 IF71
 
 Now we want these in one text result in one row.
-We will use Oracle’s Lis Aggregator function LISTAGG
+We will use Oracle’s List Aggregator function LISTAGG
 
-https://docs.oracle.com/cd/E11882_01/server.112/e41084/functions089.htm#SQLRF30030
+<a href="https://docs.oracle.com/cd/E11882_01/server.112/e41084/functions089.htm#SQLRF30030">LISTAGG</a>
 
 We can wrap the sample query above as follows:
 
