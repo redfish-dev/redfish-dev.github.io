@@ -13,3 +13,5 @@ SuiteQL Query Tool: <a href="https://timdietrich.me/netsuite-suitescripts/suiteq
 Analytics Browser: <a href="https://system.netsuite.com/help/helpcenter/en_US/srbrowser/Browser2020_1/analytics/record/account.html">Analytics Browser</a>
 
 Stoic EBook <a href="https://stoic.software/archive/cookbooks/basic-query-src/">ebook</a>
+
+Prolecto Blog <a href="https://blog.prolecto.com/">Prolecto</a>
