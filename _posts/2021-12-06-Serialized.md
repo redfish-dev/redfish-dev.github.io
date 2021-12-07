@@ -5,6 +5,16 @@ date:   2021-12-06 15:23:10 -0600
 categories: Netsuite SuiteQL
 ---
 
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-T43W5QQ2KS"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-T43W5QQ2KS');
+</script>
+
+
 
 I had a request to see all sales orders where a serialized inventory item was shipped. The client wanted to see the serial numbers shipped by Sales Order.
 
