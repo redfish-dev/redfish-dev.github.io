@@ -8,11 +8,12 @@ categories: Netsuite SuiteQL
 
 I had a request to see all sales orders where a serialized inventory item was shipped. The client wanted to see the serial numbers shipped by Sales Order.
 
-You can add any field you want to see such as item desciption, quantity, etc.
+You can add any field you want to see such as item description, quantity, etc.
 
-We must first join an Item Fullfilment to Inventory Assignment and then to an Inventory Number.
+We must first join an Item Fulfillment to Inventory Assignment and then to an Inventory Number.
 
-From the Fullfilemnt Line Items we can get to the sales order it was 'createdfrom'.
+From the Fulfillment Line Items we can get to the sales order it was ‘createdfrom’.
+
 
 
 {% highlight sql %}
