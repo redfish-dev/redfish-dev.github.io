@@ -5,13 +5,13 @@ date:   2021-12-05 15:23:10 -0600
 categories: Netsuite SuiteQL
 ---
 
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-XXXXXXXXX-X"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-T43W5QQ2KS"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'UA-XXXXXXXXX-X');
+  gtag('config', 'G-T43W5QQ2KS');
 </script>
 
 
