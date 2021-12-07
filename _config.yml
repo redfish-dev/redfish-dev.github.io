@@ -27,6 +27,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ""
 github_username:  RedFish-dev
 
+# Google Analytics
+google_analytics: G-T43W5QQ2KS
+
 # Build settings
 theme: minima
 plugins:

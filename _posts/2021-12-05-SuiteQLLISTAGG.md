@@ -5,6 +5,16 @@ date:   2021-12-05 15:23:10 -0600
 categories: Netsuite SuiteQL
 ---
 
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-XXXXXXXXX-X"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-XXXXXXXXX-X');
+</script>
+
+
 If you want to see all item fulfilments for a sales order on one line versus a row for each:
 
 In our example Sales Order 2193 has Items fulfilled on IF 47 and IF 71.
