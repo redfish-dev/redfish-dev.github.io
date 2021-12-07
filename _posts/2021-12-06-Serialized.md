@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sales Orders with Serialized Inventory Shipped in Last 30 days"
-date:   2021-12-05 15:23:10 -0600
+date:   2021-12-06 15:23:10 -0600
 categories: Netsuite SuiteQL
 ---
 
