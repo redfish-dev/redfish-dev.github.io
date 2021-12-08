@@ -19,4 +19,4 @@ I have released an alpha version of a tool to see SuiteQL queries in a suitelet.
 [Saved SQL Search Tool](https://github.com/redfish-dev/NetsuiteSavedSQLSearch)
 
 sample results with links to records
-![sample query](SampleQueryResults.jpg)
+![sample query](https://redfish-dev.github.io/SampleQueryResults.jpg)
