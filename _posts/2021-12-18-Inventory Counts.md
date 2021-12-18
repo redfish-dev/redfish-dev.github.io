@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sales Orders with Serialized Inventory Shipped in Last 30 days"
+title:  "Item Counts in SuiteQL such as QuantityAvailable"
 date:   2021-12-18 06:21:10 -0600
 categories: Netsuite SuiteQL
 ---
