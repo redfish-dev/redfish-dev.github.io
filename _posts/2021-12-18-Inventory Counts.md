@@ -16,7 +16,9 @@ categories: Netsuite SuiteQL
 
 
 
-Some fields such as quantityavailable have moved off of the item table and are now found in itemCounts.
+Depending on your account settings, some fields such as quantityavailable may have moved off of the item table and may be found in itemCounts .
+
+If you are getting "Field 'QuantityAvailable' for record 'item' was not found. Reason: REMOVED - Field is removed" you might find your counts on the inventoryitemlocations record.
 
 In order to get a count of available accross multiple locations you need to pull from inventoryitemlocations.
 
